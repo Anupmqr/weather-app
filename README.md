@@ -1,5 +1,3 @@
-<img width="636" alt="Screenshot 2024-03-31 at 9 22 09 PM" src="https://github.com/Anupmqr/weather-app/assets/122713481/193d7fab-b05e-4601-a97a-492f4345cbd0"># React + Vite
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
